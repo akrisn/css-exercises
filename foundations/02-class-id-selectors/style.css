@@ -1,5 +1,24 @@
-.class-objects {
-    color: rgb(255, 153, 153);
+* {
     font-family: "Verdana", "DejaVu Sans", sans-serif;
-    
+}
+
+.class-objects {
+    background-color: rgb(255, 153, 153);
+}
+
+.class-objects#butcooler {
+    background-color: rgb(255, 153, 153);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
