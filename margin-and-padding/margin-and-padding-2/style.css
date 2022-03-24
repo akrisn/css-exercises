@@ -1,6 +1,6 @@
 body {
   background: #eee;
-  font-family: sans-serif;
+  font-family:  Arial, Helvetica, sans-serif;
 }
 
 .card {
@@ -11,17 +11,21 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 5px;
 }
 
 .content {
   background: #e3f4ff;
+  padding: 5px;
 }
 
 .button-container {
   background: #e3f4ff;
+  padding: 5px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  font-weight: bold;
 }
